@@ -1,0 +1,6 @@
+{
+  "name": "Adventure Academy: Learn. Adapt. Grow.",
+  "description": "An adaptive math adventure RPG where students explore realms, solve visual challenges, level up companion Nova, and plant real trees on Earth through in-game forest achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
